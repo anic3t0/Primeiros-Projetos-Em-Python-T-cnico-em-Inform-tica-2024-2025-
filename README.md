@@ -3,12 +3,11 @@
 ## Sobre
 Este repositório reúne alguns dos primeiros códigos que desenvolvi durante o curso Técnico em Informática, entre 2024 e 2025.
 
-Os projetos representam meu primeiro contato com programação e foram desenvolvidos ao longo das disciplinas e atividades práticas do curso. A maior parte dos códigos deste repositório foi desenvolvida em Python, além de outros projetos em diferentes linguagens que serão adicionados posteriormente.
+Os projetos representam meu primeiro contato com programação e foram desenvolvidos ao longo das disciplinas e atividades práticas do curso. A maior parte dos códigos deste repositório foi desenvolvida em Python, além de alguns projetos em C++ que serão adicionados posteriormente.
 
 Os códigos foram mantidos como parte do meu histórico de aprendizado, permitindo acompanhar minha evolução desde exercícios básicos de lógica de programação até projetos um pouco mais estruturados.
 
 ## Conteúdo
-- Python
 - Lógica de programação
 - Estruturas condicionais
 - Estruturas de repetição
